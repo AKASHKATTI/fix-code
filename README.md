@@ -1,7 +1,8 @@
 
 # 🔍 Code Review AI
 
-<img width="1866" height="937" alt="Code rev op img" src="https://github.com/user-attachments/assets/7dda1559-29d8-47e5-b4c3-4bf809865559" />
+<img width="1866" height="937" alt="Code rev op img" src="https://github.com/user-attachments/assets/4ffcdb46-7cd2-4274-9243-d85716480c1a" />
+
 
 
 
@@ -274,4 +275,5 @@ If you encounter any issues or have suggestions, please open an issue in the rep
 
 #
 #
+
 
