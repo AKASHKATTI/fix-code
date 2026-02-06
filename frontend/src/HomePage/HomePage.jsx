@@ -5,7 +5,7 @@ import "../index.css";
 import CodeReviewDisplay from "../components/CodeReviewDisplay";
 import { LuSparkles } from "react-icons/lu";
 
-const baseUrl = https://fix-code-pi.vercel.app;
+const baseUrl = "https://fix-code-pi.vercel.app";
 
 
 const api = axios.create({
