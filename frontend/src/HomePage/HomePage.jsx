@@ -5,7 +5,7 @@ import "../index.css";
 import CodeReviewDisplay from "../components/CodeReviewDisplay";
 import { LuSparkles } from "react-icons/lu";
 
-const baseUrl = import.meta.env.VITE_BASE_URL;
+const baseUrl = https://fix-code-pi.vercel.app;
 
 
 const api = axios.create({
@@ -34,7 +34,7 @@ function HomePage() {
     setReviewData(null);
 
     try {
-      const response = await api.post("/get-review", { code });
+      const response = await api.post("/ai/get-review", { code });
       
       setReviewData(response.data);
     } catch (error) {
